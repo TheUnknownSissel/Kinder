@@ -19,7 +19,7 @@ Combat will be covered in another section: SEE COMBAT
 ### Combat
 Combat has a multitude of different avenues that will be outlined below:
 
-Time Based: Time would move so that when each players bar fills up they then get to act. Battle then pauses when the player selects an action. AA would be made imediatly and Skills would have their own completion bar that would fill before the action follows through. During this time both player and enemies skills may be interupted. 
+Time Based: Time would move so that when each player's bar fills up they then get to act. Battle then pauses when the player selects an action. AA would be made immediately and Skills would have their own completion bar that would fill before the action follows through. During this time both player and enemies skills may be interrupted. 
 
 Understand how the mana and skill points will work in relation to skills and gameplay. 
 
@@ -33,19 +33,19 @@ Two Possibilities:
 ### Locations/ Geography
 ## Assets
 ### Music/Audio
-Needs to be Planned and discussed with planed Audio Engineer. Will follow after more story and base conent is fleshed out.
+Needs to be planned and discussed with a planned Audio Engineer. Will follow after more story and base content is fleshed out.
 ### Art Design
 Needs to be talked about with a planned associate and develop more of the outlining themes and specifics. 
-### Atributions
+### Attributions
 Old Nautical Map - Current menuing image is take from this
 
 
-## Time Line
+## Timeline
 First Line - Time Table
 
 Second Line - Story/ - Documentation/Planning
 
-Third Line - Mechanic Implimentations
+Third Line - Mechanic Implementations
 
 1. Week 1 - 8/28- 9/3
     1. Obtain Generic Story and Mechanic outline.
