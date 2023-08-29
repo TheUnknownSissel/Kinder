@@ -33,7 +33,7 @@ Two Possibilities:
 ### Locations/ Geography
 ## Assets
 ### Music/Audio
-Needs to be talked about with a planned associate and develop more of the outlining themes and specifics. 
+Needs to be Planned and discussed with planed Audio Engineer. Will follow after more story and base conent is fleshed out.
 ### Art Design
 Needs to be talked about with a planned associate and develop more of the outlining themes and specifics. 
 ### Atributions
